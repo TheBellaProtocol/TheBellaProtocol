@@ -25,7 +25,14 @@ My focus is on understanding how security controls, risk management, and complia
 - Documentation and written communication
 
 ## Portfolio Projects
-This section highlights hands-on projects that demonstrate how I apply cybersecurity concepts in practical scenarios, including risk identification, control validation, and security-focused automation.
+This section highlights hands-on cybersecurity projects demonstrating practical skills in log analysis, risk identification, and security-focused automation.
+
+Failed Login Activity Analyzer
+A Python script that analyzes login activity logs to identify abnormal login attempts and potential brute-force patterns.
+
+Skills: Python, Log Analysis, Security Monitoring
+
+GitHub: https://github.com/TheBellaProtocol/failed-login-analyzer
 
 *(Projects will be added and expanded over time)*
 
