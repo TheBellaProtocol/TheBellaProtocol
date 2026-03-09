@@ -25,7 +25,7 @@ My focus is on understanding how security controls, risk management, and complia
 - Documentation and written communication
 
 ## Portfolio Projects
-This section highlights hands-on cybersecurity projects demonstrating practical skills in log analysis, risk identification, and security-focused automation.
+This section highlights hands-on cybersecurity projects demonstrating practical skills in security analysis, threat detection, and risk-focused security practices.
 
 ***Failed Login Activity Analyzer:***
 A Python script that analyzes login activity logs to identify abnormal login attempts and potential brute-force patterns.
@@ -33,6 +33,13 @@ A Python script that analyzes login activity logs to identify abnormal login att
 Skills: Python, Log Analysis, Security Monitoring
 
 GitHub: https://github.com/TheBellaProtocol/failed-login-analyzer
+
+***Phishing Detection with Regex:***
+A Python-based tool that analyzes email content using regular expression patterns to identify common phishing indicators such as urgent language and credential requests. The project also includes email header analysis comparing phishing and legitimate messages.
+
+Skills: Python, Regex Pattern Matching, Phishing Analysis, Email Header Analysis
+
+GitHub: https://github.com/TheBellaProtocol/phishing-regex-detector
 
 *(Projects will be added and expanded over time)*
 
